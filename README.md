@@ -14,5 +14,6 @@ docker run cs2ag/check_nrpe_v2 -h foo.example.com
 ## Author
 
 * Peter Misinsky (<github@cs2.ch>)
+* Peter Misinsky (<peter.misinsky@cs2.ch>)
 
 ---
